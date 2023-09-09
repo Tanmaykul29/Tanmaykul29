@@ -28,7 +28,7 @@ Functional: Machine Learning, ERPNext, Terraform, NumPy, Pandas, TensorFlow 2
 Mobile and Web Technologies: HTML, CSS, Bootstrap, JavaScript, Django, Flask
 Databases: MySQL, PostgreSQL, MongoDB, SQLite
 Development Tools: Visual Studio, Git, Eclipse, IntelliJ IDEA, PyCharm -->
-### ⚙️ Some Tool and Tech I use
+### ⚙️ Some Tools and Tech I use
 - 🚀 I use daily:
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
   ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
