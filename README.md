@@ -56,4 +56,5 @@ Development Tools: Visual Studio, Git, Eclipse, IntelliJ IDEA, PyCharm -->
 ### 🖥️ My DevSetup
 <img src="https://shields.io/badge/MacOS--9cf?logo=Apple&style=social"> <img src="https://img.shields.io/badge/Ubuntu-555555.svg?&style=flat-square&logo=ubuntu&logoColor=0078D6"> <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-555555.svg?&style=flat-square&logo=jupyter&logoColor=F37626"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760"> 
 
- [![My Top Langs](https://new-readme-stats.vercel.app/api/top-langs/?username=Tanmaykul29&layout=compact&theme=draculashow_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Tanmaykul29)
+
+ [![My Github Stats](https://new-readme-stats.vercel.app/api?username=Tanmaykul29&show_icons=true&count_private=true&theme=dracula&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Tanmaykul29)
