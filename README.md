@@ -40,9 +40,9 @@ Development Tools: Visual Studio, Git, Eclipse, IntelliJ IDEA, PyCharm -->
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=plastic&logo=ubuntu)
 - 💻 I work using:
   ![Flask](https://img.shields.io/badge/Flask-232F3E?style=plastic&logo=flask)
+  ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
   ![GCP](https://img.shields.io/badge/-GCP-black?logo=googlecloud&style=plastic)
-  ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
