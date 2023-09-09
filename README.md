@@ -31,6 +31,7 @@ Development Tools: Visual Studio, Git, Eclipse, IntelliJ IDEA, PyCharm -->
 ### ⚙️ Some Tool and Tech I use
 - 🚀 I use daily:
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![Java](https://img.shields.io/badge/-Java-black?style=plastic&logo=Java)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
