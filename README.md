@@ -1,5 +1,5 @@
 ## Hi there, [Tanmay Kulkarni](https://github.com/Tanmaykul29) here <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="20px"> 👨🏻‍💻
-<img src="https://github.com/Tanmaykul29/Tanmaykul29/blob/main/images/pxfuel.jpg" height="275px">
+<img src="https://github.com/Tanmaykul29/Tanmaykul29/blob/main/images/pxfuel.jpg" height="250px" width="100%">
 <!--
 **Tanmaykul29/Tanmaykul29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
