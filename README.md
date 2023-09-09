@@ -11,16 +11,16 @@ I'm an **Undergrad Student🎓 [@SPIT Mumbai](https://www.spit.ac.in)** pursuing
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently working on NLP Project
+- 🔭 I’m currently working on a Machine Learning Project
 <img width="490" height="230" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
+- <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="30">  I enjoy working on
   - 📊 Machine Learning & Data Science
-  - 🖼 Computer Vision
-- 💬 Ask me about Python, ML, CV, Data Analytics
-- 📙 Check out my [Resume](https://drive.google.com/file/d/1yCCIDn17Zb889d81xhciFpWsyh1i8boy/view?usp=sharing)
+  - 🖼 Competitive Programming
+- 💬 Ask me about C++, Python, ML, Data Analytics
+- 📙 Check out my [Resume](https://drive.google.com/file/d/1rljsoHO8Wa2bX71ZKteQqnTU6iarhTdh/view)
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
-- 🎉 Fun-Fact: I'm a huge fan of Football, I ❤️ to eat and travel
+- 🎉 Fun-Fact: I ❤️ to eat and travel
 
 <!-- - 🏢 I'm currently working at **Worklife** -->
 <!-- Programming Languages:C
