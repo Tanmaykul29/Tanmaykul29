@@ -18,7 +18,6 @@ I'm an **Undergrad Student🎓 [@SPIT Mumbai](https://www.spit.ac.in)** pursuing
   - 📊 Machine Learning & Data Science
   - 🖼 Competitive Programming
 - 💬 Ask me about C++, Python, ML, Data Analytics
-- 📙 Check out my [Resume](https://drive.google.com/file/d/1rljsoHO8Wa2bX71ZKteQqnTU6iarhTdh/view)
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
 - 🎉 Fun-Fact: I ❤️ to eat and travel
 
