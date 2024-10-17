@@ -17,7 +17,7 @@ I'm an **Undergrad Student🎓 [@SPIT Mumbai](https://www.spit.ac.in)** pursuing
 - <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="30">  I enjoy working on
   - 📊 Backend & database systems
   - 🖼 Competitive Programming
-- 💬 Ask me about C++, Python, ML, Data Analytics
+- 💬 Ask me about C++, Python, ML, Cloud, Big Data
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
 - 🎉 Fun-Fact: I ❤️ to eat and travel
 
